@@ -1,0 +1,15 @@
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/bin/Debug/net6.0/bookingApp
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/bin/Debug/net6.0/bookingApp.deps.json
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/bin/Debug/net6.0/bookingApp.runtimeconfig.json
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/bin/Debug/net6.0/bookingApp.dll
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/bin/Debug/net6.0/bookingApp.pdb
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/obj/Debug/net6.0/bookingApp.csproj.AssemblyReference.cache
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/obj/Debug/net6.0/bookingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/obj/Debug/net6.0/bookingApp.AssemblyInfoInputs.cache
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/obj/Debug/net6.0/bookingApp.AssemblyInfo.cs
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/obj/Debug/net6.0/bookingApp.csproj.CoreCompileInputs.cache
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/obj/Debug/net6.0/bookingApp.dll
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/obj/Debug/net6.0/refint/bookingApp.dll
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/obj/Debug/net6.0/bookingApp.pdb
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/obj/Debug/net6.0/bookingApp.genruntimeconfig.cache
+/Users/dani/dev/Work/1/ticketBookingApp/bookingApp/obj/Debug/net6.0/ref/bookingApp.dll
